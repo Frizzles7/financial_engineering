@@ -11,5 +11,5 @@ Introduction and Basics
  - alpha_and_beta.ipynb: how to calculate alpha and beta in a simple model
  
 Time Series Analysis
- - 
+ - SimpleMovingAverage.ipynb: how to calculate simple moving averages using a rolling window
  
