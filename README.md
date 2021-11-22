@@ -2,6 +2,7 @@
 
 This repo includes the files I used for the Financial Engineering and Artificial Intelligence in Python course from Lazy Programmer.
 
+Introduction and Basics
  - Warmup.ipynb: notebook with basic warmup exercises
  - financial_basics_getdata.ipynb: collect needed data for this course
  - financial_basics_understanding.ipynb: basic manipulations of stock data
@@ -9,4 +10,6 @@ This repo includes the files I used for the Financial Engineering and Artificial
  - fin_data_stats.ipynb: main notebook for section 2 on financial data statistics
  - alpha_and_beta.ipynb: how to calculate alpha and beta in a simple model
  
+Time Series Analysis
+ - 
  
