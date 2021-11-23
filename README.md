@@ -12,4 +12,6 @@ Introduction and Basics
  
 Time Series Analysis
  - SimpleMovingAverage.ipynb: how to calculate simple moving averages using a rolling window
+ - ewma_holtwinters.ipynb: how to use EWMA and Holt-Winters models
+ - arima.ipynb: how to use ARIMA models
  
